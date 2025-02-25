@@ -21,6 +21,7 @@ namespace MvcMovie.Controllers
 
 
         // GET: Movies
+        // To check Git push command
         // GET: Movies
         public async Task<IActionResult> Index(string movieGenre, string searchString)
         {
